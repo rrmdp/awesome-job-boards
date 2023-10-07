@@ -223,3 +223,4 @@ A curated list of awesome niche job boards.
 * [WorkInGreen.jobs](https://workingreen.jobs/) - Greentech related jobs
 * [Privacy-First Jobs](https://privacyfirstjobs.com/) – Jobs in privacy-first companies and organisations.
 * [ClimateTechList](https://www.climatetechlist.com/) - climate tech / green energy jobs for software engineers, PMs, & other tech professionals, live aggregator of 600 companies' job boards, updated daily.
+* [JobBoardSearch 🔎](https://jobboardsearch.com/) - A curated list of the best job boards in the world with filters. 1000s of job listed from 50+ feeds
